@@ -1,0 +1,15 @@
+body{
+    background-color: blanchedalmond;
+}
+button{
+    padding: 15px;
+    background-color: red;
+}
+.resultado{
+
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    background-color: beige;
+}
